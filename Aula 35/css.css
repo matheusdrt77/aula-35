@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header {
+    width: 100%;
+    background-color: rgb(5, 15, 100);
+    height: 80px;
+}
+
+#tituloheader {
+    color: aliceblue;
+    width: 50%;
+    padding: 15px;
+    font-size: 10px;
+}
+
+.topicos a {
+    color: aliceblue;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 22px;
+}
+
+.topicos {
+    padding-left: 50%;
+    width: 50%;
+}
+#img {
+    width: 250px;
+   margin-left: 43%;
+   margin-top: 6%;
+}
